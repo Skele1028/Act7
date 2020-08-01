@@ -1,0 +1,29 @@
+/* Info */
+.o-contInfoEnf{
+    width: 80%;
+    margin:  60px 10%; 
+}
+
+.o-contTitleEnf h3{
+    text-align: center;
+    padding-top: 15px ;
+}
+
+.o-contTextEnf p{
+    text-align: justify;
+}
+
+.o-name{
+    font-size: 15px;
+}
+
+.o-imgEnf{
+    width: 35px;
+}
+
+.o-small{
+    width: 100%;
+    text-align: right !important;
+    color: #79859b;
+}
+
